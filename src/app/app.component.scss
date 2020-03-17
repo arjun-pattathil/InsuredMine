@@ -1,0 +1,48 @@
+footer {
+
+    background-color: black;
+    color: #b3b3b3;
+    height: 8%;
+
+    .container-fluid,
+    .row {
+        height: 100%;
+    }
+
+    .footer-content-wrapper {
+        display: flex;
+
+        .logo {
+            width: 50%;
+        }
+
+        .footer-text {
+            font-size: 14px;
+            margin: auto;
+            text-align: center;
+
+            span {
+                display: block;
+                padding: 2px 0;
+            }
+        }
+
+        span,
+        .icons {
+            margin: auto;
+        }
+
+    }
+
+    mat-icon {
+        height: 26px;
+        width: 26px;
+        margin: 0 8px;
+        cursor: pointer;
+        ;
+    }
+
+    mat-icon:hover {
+        color: white;
+    }
+}

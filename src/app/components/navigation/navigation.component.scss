@@ -1,0 +1,26 @@
+.nav.navbar-nav {
+    font-size: 25
+}
+
+.nav-link {
+    // text-transform: uppercase;
+    padding: 0.5em !important;
+}
+
+.navbar-dark .navbar-nav .active .nav-link {
+    // color: #eaff00;
+
+    background-color: #47444438;
+    border-radius: 4px;
+
+}
+
+nav {
+    background-image: linear-gradient(to right, #84b9ff, #136cdb);
+    box-shadow: 1px 2px 12px #757272;
+    font-size: 16px;
+}
+
+.navbar-nav {
+    flex-direction: row;
+}

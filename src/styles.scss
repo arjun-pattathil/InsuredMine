@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+// html, body { height: 95.6%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.component-wrapper {
+    padding: 2%;
+    height: 92%;
+    overflow: auto;
+  }
+
+  .media-btn-submit{
+    background-color: blue;
+    color: white;
+  }
