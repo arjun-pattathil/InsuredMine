@@ -1,5 +1,5 @@
 # InsuredMine
 Front end of Media Assignment
 
-#Install
+# Install
 Run command npm install
